@@ -1,8 +1,12 @@
-# React + Tailwind
+📅 Calendar Component (React + TypeScript)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules. One top of the standard Vite setup, [tailwindcss](https://tailwindcss.com/) is installed and ready to be used in React components.
+A simple and reusable Calendar component built using React and TypeScript.
+The component accepts a Date prop and renders a month view with properly aligned days.
 
-Additional references:
-* [Getting started with Vite](https://vitejs.dev/guide/)
-* [Tailwind documentation](https://tailwindcss.com/docs/installation)
+Features
 
+Shows month and year
+Displays weekdays
+Highlights the selected date
+Calculates the first day of the month
+Calculates the number of days in the month
